@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+/output/
+*.log
+node_modules/
+.DS_Store
+/output/
+*.log
+# local editor and OS clutter stays out of the entry
+*.swp
+Thumbs.db
